@@ -31,5 +31,5 @@ Completed Course 1 & 2 of the **Stanford Machine Learning Specialization (Andrew
 ---
 
 ### 📫 Connect with Me
-[LinkedIn](www.linkedin.com/in/realnitinw) | [Email](mailto:officialnitinw@gmail.com
+[LinkedIn](https://www.linkedin.com/in/realnitinw) | [Email](mailto:officialnitinw@gmail.com
 )
