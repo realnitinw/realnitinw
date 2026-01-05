@@ -1,11 +1,11 @@
 # Hi, I'm Nitin Wadhwa! 👋
 
-### 👨‍💻 Python Developer | ML & Neural Networks Enthusiast | MSIT '29
+###  Python Developer | ML & Neural Networks Enthusiast | MSIT '29
 I am a first-year Computer Science student at MSIT, deeply invested in the mathematical and practical implementation of AI. I focus on building robust models using Supervised Learning and Deep Learning architectures.
 
 ---
 
-### 🧠 Machine Learning & Neural Network Expertise
+###  Machine Learning & Neural Network Expertise
 Completed Course 1 & 2 of the **Stanford Machine Learning Specialization (Andrew Ng)** with a focus on:
 
 * **Supervised Learning:** Linear/Logistic Regression, Decision Trees, and Random Forests.
@@ -24,7 +24,7 @@ Completed Course 1 & 2 of the **Stanford Machine Learning Specialization (Andrew
 
 ---
 
-### 📊 GitHub Activity
+###  GitHub Activity
 ![Nitin's Stats](https://github-readme-stats.vercel.app/api?username=realnitinw&show_icons=true&theme=dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realnitinw&layout=compact&theme=dark&hide_border=true)
 
